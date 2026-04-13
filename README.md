@@ -1,66 +1,101 @@
-<h1>Loukik Reddy Mekala</h1>
+# Hi, I'm Loukik Reddy 👋
 
-<p>
-  Final-year B.Tech in Artificial Intelligence · Hyderabad, India<br/>
-  Building AI systems for real-world medical imaging problems.<br/>
-  Open to roles in <b>Data Science</b>, <b>AI/ML Engineering</b>, and <b>Data Analytics</b>.
-</p>
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-informational?style=flat)
-![Medical AI](https://img.shields.io/badge/Medical%20AI-success?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blueviolet?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=flat)
-![Flask](https://img.shields.io/badge/Flask-blue?style=flat)
-![MEAN Stack](https://img.shields.io/badge/MEAN%20Stack-green?style=flat)
+**Final-Year AI Student → Aspiring Data Analyst**  
+📍 Hyderabad, India &nbsp;|&nbsp; 🎓 B.Tech Artificial Intelligence @ Anurag University &nbsp;|&nbsp; CGPA: 8.09
 
 ---
 
-## Projects
+## What I Build
 
-### Multimodal Diabetic Retinopathy Detection
-Dual-branch deep learning pipeline combining **EfficientNetB0** (fundus images) and **DenseNet121** (OCT scans) for feature extraction, with **LightGBM** for 5-class DR severity prediction. Deployed as a full **Flask web application** with drag-and-drop upload, light/dark theme, and **SHAP + Grad-CAM** explainability. Trained with ×8 augmentation and class-balanced learning.
+I don't just analyze data — I build complete data products, from raw CSV to deployed insight.
 
-`EfficientNetB0` `DenseNet121` `LightGBM` `Flask` `SHAP` `Grad-CAM` `OpenCV` `Python`
-
----
-
-### E-commerce Sales Performance Dashboard
-End-to-end analysis of **99,000+ orders** and **$15M+ in revenue** from a Brazilian e-commerce dataset. Combined Python EDA, SQL queries, and RFM customer segmentation to uncover category performance, payment trends, and delivery patterns. Delivered insights via an interactive **Power BI dashboard** and an **Excel report**.
-
-Key findings: credit cards drove 81% of revenue · health & beauty was the top category · average delivery time of 12 days correlated with review scores · best revenue month was Nov 2017.
-
-`Python` `Pandas` `SQL` `SQLite` `Power BI` `Excel` `Matplotlib` `Seaborn` `RFM Segmentation` → [View repo](https://github.com/mloukikreddy/ecommerce-sales-analysis)
+- 📊 **Business dashboards** — end-to-end pipelines: SQL → Python EDA → Power BI
+- 🤖 **ML systems** — deep learning pipelines for real-world medical imaging problems
+- 🌐 **Web apps** — full-stack projects connecting data to users
 
 ---
 
-### DR Classification — Seeing the Unseen
-End-to-end hybrid ML pipeline: VGG16 for deep feature extraction from retinal images + LightGBM for classification. Evaluated with accuracy, precision, recall, F1-score, and confusion matrix.
+## Featured Projects
 
-`VGG16` `LightGBM` `Scikit-learn` `Jupyter Notebook` → [View repo](https://github.com/mloukikreddy/Diabetic-Retinopathy)
+### 🛒 E-Commerce Sales Performance Dashboard
+> Python · SQL · Power BI · Excel
+
+Analyzed **99,441 real transactions** to uncover revenue trends, customer behavior, and delivery performance insights.
+
+- Built an end-to-end pipeline: CSV → SQL (SQLite via Jupyter) → Python EDA → Power BI dashboard
+- Found that orders delivered in **< 10 days** earned 5-star ratings **59% of the time** vs. 20% for slower deliveries
+- Built RFM segmentation model classifying **96,478 customers** into 5 behavioral segments
+- Identified **18,071 at-risk customers** for targeted retention campaigns
+- 3-page interactive Power BI dashboard with 11 visuals and drill-down by month + category
+
+📁 [View Repository →](https://github.com/mloukikreddy/ecommerce-dashboard)
 
 ---
 
-### Loc88r — Location Review App
-Full-stack web app for discovering and reviewing locations. Secure sign-in, location browsing, and user-submitted star ratings built on the MEAN stack.
+### 🩺 Diabetic Retinopathy Detection
+> Python · TensorFlow · VGG16 · LightGBM · Scikit-learn
 
-`MongoDB` `Express.js` `Angular` `Node.js` → [View repo](https://github.com/mloukikreddy/loc88r)
+Hybrid deep learning + ML system for classifying DR severity from retinal images.
+
+- VGG16 CNN for deep feature extraction from OCT and Fundus images
+- LightGBM classifier for multi-class DR severity prediction
+- Evaluated with precision, recall, F1-score, and confusion matrix
+- Up to **99% accuracy** on test set
+
+📁 [View Repository →](https://github.com/mloukikreddy/Diabetic-Retinopathy)
 
 ---
 
 ## Tech Stack
 
-**AI / ML:** Python · TensorFlow/Keras · LightGBM · Scikit-learn · OpenCV · SHAP · Grad-CAM  
-**Data:** Pandas · SQL · SQLite · Power BI · Excel · Matplotlib · Seaborn  
-**Web:** Flask · MEAN Stack (MongoDB · Express · Angular · Node.js) · REST APIs  
-**Tools:** Git · GitHub · VS Code · Google Colab · Jupyter
+**Data & Analysis**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Visualization & BI**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+**Machine Learning & Deep Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=python&logoColor=white)
+
+**Dev Tools**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## Certifications
+
+- 🟦 Introduction to Generative AI Studio — **Google Cloud**
+- 🟧 Introduction to OpenAI GPT Models — **Infosys SpringBoard**
+- 🔵 Data Visualization with Python — **IBM**
+- 🍃 Introduction to MongoDB — **MongoDB**
+
+---
+
+## Currently
+
+- 🎓 Final year B.Tech AI @ Anurag University (2022–2026)
+- 🔍 Actively looking for **Data Analyst / Data Scientist** roles
+- 📈 Building more data projects to strengthen my analytics portfolio
+- 🌱 Learning: Tableau · A/B Testing · Cloud platforms (AWS/GCP)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loukik%20Reddy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mekala-loukik-reddy-a717b4287)
-[![GitHub](https://img.shields.io/badge/GitHub-mloukikreddy-181717?style=flat&logo=github&logoColor=white)](https://github.com/mloukikreddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekala-loukik-reddy-a717b4287/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mloukikreddy@gmail.com)
 
 ---
 
-🟢 **Open to work** — Data Analyst · Data Scientist · AI/ML Engineer
+*"I don't just analyze data — I build complete data products, from raw CSV to deployed insight."*
