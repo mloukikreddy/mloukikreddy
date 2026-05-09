@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech **Artificial Intelligence** · Anurag University, Hyderabad (CGPA: 8.09 · Graduating 2026)
+- 🎓 B.Tech **Artificial Intelligence** · Anurag University, Hyderabad (CGPA: 8.07 · Graduating 2026)
 - 🔍 Open to: **Data Analyst · Data Scientist · AI Engineer · Python Developer · ML Developer**
 - 🛠️ I build end-to-end data products — raw data → EDA → ML models → deployed apps
 - 📧 mloukikreddy@gmail.com · 📍 Hyderabad, India
