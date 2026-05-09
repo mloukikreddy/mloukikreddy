@@ -3,7 +3,7 @@
 <h4 align="center"><i>Build. Analyze. Deploy.</i></h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mekala-loukik-reddy-a717b4287" target="_blank">
+  <a href="linkedin.com/in/mekala-loukik-reddy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mloukikreddy" target="_blank">
